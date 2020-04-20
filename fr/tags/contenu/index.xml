@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contenu on LoveIt</title>
+    <link>https://Note.github.io/fr/tags/contenu/</link>
+    <description>Recent content in contenu on LoveIt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 05 Mar 2020 16:30:05 +0800</lastBuildDate>
+    
+	<atom:link href="https://Note.github.io/fr/tags/contenu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thème Documentation - Contenu</title>
+      <link>https://Note.github.io/fr/theme-documentation-content/</link>
+      <pubDate>Thu, 05 Mar 2020 16:30:05 +0800</pubDate>
+      
+      <guid>https://Note.github.io/fr/theme-documentation-content/</guid>
+      <description>&lt;p&gt;Découvrez comment créer et organiser votre contenu rapidement et intuitivement dans le thème &lt;strong&gt;LoveIt&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

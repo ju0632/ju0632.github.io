@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文档 on LoveIt</title>
+    <link>https://Note.github.io/zh-cn/categories/documentation/</link>
+    <description>Recent content in 文档 on LoveIt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://Note.github.io/zh-cn/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>主题文档 - 基本概念</title>
+      <link>https://Note.github.io/zh-cn/theme-documentation-basics/</link>
+      <pubDate>Fri, 06 Mar 2020 21:40:32 +0800</pubDate>
+      
+      <guid>https://Note.github.io/zh-cn/theme-documentation-basics/</guid>
+      <description>&lt;p&gt;探索 Hugo - &lt;strong&gt;LoveIt&lt;/strong&gt; 主题的全部内容和背后的核心概念.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>主题文档 - 内容</title>
+      <link>https://Note.github.io/zh-cn/theme-documentation-content/</link>
+      <pubDate>Thu, 05 Mar 2020 16:30:05 +0800</pubDate>
+      
+      <guid>https://Note.github.io/zh-cn/theme-documentation-content/</guid>
+      <description>&lt;p&gt;了解如何在 &lt;strong&gt;LoveIt&lt;/strong&gt; 主题中快速, 直观地创建和组织内容.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

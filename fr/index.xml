@@ -1,0 +1,185 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>LoveIt | LoveIt</title>
+        <link>https://Note.github.io/fr/</link>
+        <description>LoveIt | LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</lastBuildDate><atom:link href="https://Note.github.io/fr/" rel="self" type="application/rss+xml" /><item>
+                <title>Posts</title>
+                <link>https://Note.github.io/fr/posts/</link>
+                <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate><guid>https://Note.github.io/fr/posts/</guid>
+                <description></description>
+            </item><item>
+                <title>À propos de LoveIt</title>
+                <link>https://Note.github.io/fr/about/</link>
+                <pubDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</pubDate><guid>https://Note.github.io/fr/about/</guid>
+                <description>&lt;p&gt;&lt;a href=&#34;https://github.com/dillonzq/LoveIt/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;&lt;img
+        class=&#34;lazyload&#34;
+        src=&#34;https://Note.github.io/svg/loading.small.min.svg&#34;
+        data-sizes=&#34;auto&#34;
+        data-srcset=&#34;https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square,  1.5x,  2x&#34;
+        data-src=&#34;&#34;
+        alt=&#34;GitHub release (latest by date)&#34;
+        title=&#34;GitHub release (latest by date)&#34; /&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;&lt;img
+        class=&#34;lazyload&#34;
+        src=&#34;https://Note.github.io/svg/loading.small.min.svg&#34;
+        data-sizes=&#34;auto&#34;
+        data-srcset=&#34;https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&amp;amp;logo=hugo,  1.5x,  2x&#34;
+        data-src=&#34;&#34;
+        alt=&#34;Hugo&#34;
+        title=&#34;Hugo&#34; /&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://github.com/dillonzq/LoveIt/blob/master/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;&lt;img
+        class=&#34;lazyload&#34;
+        src=&#34;https://Note.github.io/svg/loading.small.min.svg&#34;
+        data-sizes=&#34;auto&#34;
+        data-srcset=&#34;https://img.shields.io/github/license/dillonzq/LoveIt?style=flat-square,  1.5x,  2x&#34;
+        data-src=&#34;&#34;
+        alt=&#34;License&#34;
+        title=&#34;License&#34; /&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;&lt;img
+        class=&#34;lazyload&#34;
+        src=&#34;https://Note.github.io/svg/loading.small.min.svg&#34;
+        data-sizes=&#34;auto&#34;
+        data-srcset=&#34;https://img.shields.io/github/stars/dillonzq/LoveIt?style=social,  1.5x,  2x&#34;
+        data-src=&#34;&#34;
+        alt=&#34;GitHub stars&#34;
+        title=&#34;GitHub stars&#34; /&gt;&lt;/a&gt;
+
+&lt;a href=&#34;https://github.com/dillonzq/LoveIt/fork&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;&lt;img
+        class=&#34;lazyload&#34;
+        src=&#34;https://Note.github.io/svg/loading.small.min.svg&#34;
+        data-sizes=&#34;auto&#34;
+        data-srcset=&#34;https://img.shields.io/github/forks/dillonzq/LoveIt?style=social,  1.5x,  2x&#34;
+        data-src=&#34;&#34;
+        alt=&#34;GitHub forks&#34;
+        title=&#34;GitHub forks&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;div class=&#34;admonition warning&#34;&gt;
+            &lt;p class=&#34;admonition-title&#34;&gt;&lt;i class=&#34;icon fas fa-exclamation-triangle&#34;&gt;&lt;/i&gt;Avertissement&lt;/p&gt;
+            &lt;div class=&#34;admonition-content&#34;&gt;Sorry, this article has not been completely translated into &lt;strong&gt;French&lt;/strong&gt;.
+Welcome to take the time to propose a translation by &lt;a href=&#34;https://github.com/dillonzq/LoveIt/pulls&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;making a PR&lt;/a&gt;
+ to the theme!&lt;/div&gt;
+        &lt;/div&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;LoveIt :(far fa-heart):&lt;/a&gt;
+ is a &lt;strong&gt;clean&lt;/strong&gt;, &lt;strong&gt;elegant&lt;/strong&gt; but &lt;strong&gt;advanced&lt;/strong&gt; blog theme for &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Hugo&lt;/a&gt;
+ developed by &lt;a href=&#34;https://dillonzq.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Dillon&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;It is based on the original &lt;a href=&#34;https://github.com/liuzc/LeaveIt/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;LeaveIt Theme&lt;/a&gt;
+ and &lt;a href=&#34;https://github.com/liuzc/LeaveIt/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;KeepIt Theme&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://Note.github.io/images/Apple-Devices-Preview.png&#34; title=&#34;Hugo Theme LoveIt&#34; data-thumbnail=&#34;/images/Apple-Devices-Preview.png&#34; data-sub-html=&#34;&lt;h2&gt;Hugo Theme LoveIt&lt;/h2&gt;&lt;p&gt;Hugo Theme LoveIt&lt;/p&gt;&#34;&gt;
+        &lt;img
+            class=&#34;lazyload&#34;
+            src=&#34;https://Note.github.io/svg/loading.min.svg&#34;
+            data-sizes=&#34;auto&#34;
+            data-srcset=&#34;https://Note.github.io/images/Apple-Devices-Preview.png, https://Note.github.io/images/Apple-Devices-Preview.png 1.5x, https://Note.github.io/images/Apple-Devices-Preview.png 2x&#34;
+            data-src=&#34;https://Note.github.io/images/Apple-Devices-Preview.png&#34;
+            alt=&#34;Hugo Theme LoveIt&#34; /&gt;
+    &lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;Hugo Theme LoveIt&lt;/figcaption&gt;
+    &lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;h4 id=&#34;performance-and-seo&#34;&gt;Performance and SEO&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;:(fas fa-rocket): Optimized for &lt;strong&gt;performance&lt;/strong&gt;: 99/100 on mobile and 100/100 on desktop in &lt;a href=&#34;https://developers.google.com/speed/pagespeed/insights&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Google PageSpeed Insights&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(fab fa-searchengin): Optimized SEO performance with a correct &lt;strong&gt;SEO SCHEMA&lt;/strong&gt; based on JSON-LD&lt;/li&gt;
+&lt;li&gt;:(fab fa-google): &lt;a href=&#34;https://analytics.google.com/analytics&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;&lt;strong&gt;Google Analytics&lt;/strong&gt;&lt;/a&gt;
+ support&lt;/li&gt;
+&lt;li&gt;:(fas fa-search): Search engine &lt;strong&gt;verification&lt;/strong&gt; support (Google, Bind, Yandex and Baidu)&lt;/li&gt;
+&lt;li&gt;:(fas fa-tachometer-alt): &lt;strong&gt;CDN&lt;/strong&gt; for third-party libraries support&lt;/li&gt;
+&lt;li&gt;:(fas fa-cloud-download-alt): Automatically converted images with &lt;strong&gt;Lazy Load&lt;/strong&gt; by &lt;a href=&#34;https://github.com/aFarkas/lazysizes&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;lazysizes&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;appearance-and-layout&#34;&gt;Appearance and Layout&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;:(fas fa-desktop): / :(fas fa-mobile): &lt;strong&gt;Responsive&lt;/strong&gt; layout&lt;/li&gt;
+&lt;li&gt;:(fas fa-moon): / :(fas fa-sun): &lt;strong&gt;Dark/Light&lt;/strong&gt; mode&lt;/li&gt;
+&lt;li&gt;:(fas fa-layer-group): Globally consistent &lt;strong&gt;design language&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;:(fas fa-ellipsis-h): &lt;strong&gt;Pagination&lt;/strong&gt; support&lt;/li&gt;
+&lt;li&gt;:(far fa-list-alt): Easy-to-use and self-expanding &lt;strong&gt;table of contents&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;:(fas fa-language): &lt;strong&gt;Multilanguage&lt;/strong&gt; support and i18n ready&lt;/li&gt;
+&lt;li&gt;:(fab fa-css3-alt): Beautiful &lt;strong&gt;CSS animation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;social-and-comment-systems&#34;&gt;Social and Comment Systems&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;:(far fa-user): &lt;strong&gt;Gravatar&lt;/strong&gt; supported by &lt;a href=&#34;https://gravatar.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Gravatar&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(fas fa-user-circle): Local &lt;strong&gt;Avatar&lt;/strong&gt; support&lt;/li&gt;
+&lt;li&gt;:(far fa-id-card): Up to &lt;strong&gt;59&lt;/strong&gt; social sites supported&lt;/li&gt;
+&lt;li&gt;:(fas fa-share-square): Up to &lt;strong&gt;28&lt;/strong&gt; share sites support&lt;/li&gt;
+&lt;li&gt;:(far fa-comment): &lt;strong&gt;Disqus&lt;/strong&gt; comment system supported by &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Disqus&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(far fa-comment-dots): &lt;strong&gt;Gitalk&lt;/strong&gt; comment system supported by &lt;a href=&#34;https://github.com/gitalk/gitalk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Gitalk&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(far fa-comment-alt): &lt;strong&gt;Valine&lt;/strong&gt; comment system supported by &lt;a href=&#34;https://valine.js.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Valine&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(far fa-comments): &lt;strong&gt;Facebook comments&lt;/strong&gt; system supported by &lt;a href=&#34;https://developers.facebook.com/docs/plugins/comments/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Facebook&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;extended-features&#34;&gt;Extended Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;:(fas fa-code): Automatically &lt;strong&gt;highlighting&lt;/strong&gt; code&lt;/li&gt;
+&lt;li&gt;:(far fa-images): &lt;strong&gt;Images gallery&lt;/strong&gt; supported by &lt;a href=&#34;https://github.com/sachinchoolur/lightgallery.js&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;lightgallery.js&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(fab fa-font-awesome): Extended markdown syntax for &lt;strong&gt;&lt;a href=&#34;https://fontawesome.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Font Awesome&lt;/a&gt;
+ icons&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;:(far fa-sticky-note): Extended markdown syntax for &lt;strong&gt;ruby annotation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;:(fas fa-square-root-alt): &lt;strong&gt;Mathematical formula&lt;/strong&gt; supported by &lt;a href=&#34;https://katex.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;$ \KaTeX $&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(fas fa-project-diagram): &lt;strong&gt;Diagrams&lt;/strong&gt; shortcode supported by &lt;a href=&#34;https://github.com/knsv/mermaid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;mermaid&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(fas fa-chart-pie): &lt;strong&gt;Interactive data visualization&lt;/strong&gt; shortcode supported by &lt;a href=&#34;https://echarts.apache.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;ECharts&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(fas fa-music): &lt;strong&gt;Music player&lt;/strong&gt; shortcode supported by &lt;a href=&#34;https://github.com/MoePlayer/APlayer&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;APlayer&lt;/a&gt;
+ and &lt;a href=&#34;https://github.com/metowolf/MetingJS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;MetingJS&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(fas fa-tv): &lt;strong&gt;Bilibili player&lt;/strong&gt; shortcode&lt;/li&gt;
+&lt;li&gt;:(far fa-bell): Kinds of &lt;strong&gt;admonitions&lt;/strong&gt; shortcode&lt;/li&gt;
+&lt;li&gt;:(fas fa-align-left): &lt;strong&gt;Custom style&lt;/strong&gt; shortcode&lt;/li&gt;
+&lt;li&gt;:(fas fa-i-cursor): &lt;strong&gt;Animated typing&lt;/strong&gt; supported by &lt;a href=&#34;https://typeitjs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;TypeIt&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;:(fas fa-arrow-down): &lt;strong&gt;Dynamic scroll&lt;/strong&gt; supported by &lt;a href=&#34;https://github.com/cferdinandi/smooth-scroll&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Smooth Scroll&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;license&#34;&gt;License&lt;/h3&gt;
+&lt;p&gt;LoveIt is licensed under the MIT license.&lt;/p&gt;
+&lt;p&gt;Check the &lt;a href=&#34;https://github.com/dillonzq/LoveIt/blob/master/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;LICENSE file&lt;/a&gt;
+ for details.&lt;/p&gt;
+&lt;p&gt;Thanks to the authors of following resources included in the theme:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fontawesome.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Font Awesome&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forkaweso.me/Fork-Awesome/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Fork Awesome&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://daneden.github.io/animate.css/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Animate.css&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aFarkas/lazysizes&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;lazysizes&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sachinchoolur/lightgallery.js&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;lightgallery.js&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cferdinandi/smooth-scroll&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Smooth Scroll&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://typeitjs.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;TypeIt&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://katex.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;$ \KaTeX $&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/knsv/mermaid&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;mermaid&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://echarts.apache.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;ECharts&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MoePlayer/APlayer&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;APlayer&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/metowolf/MetingJS&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;MetingJS&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gitalk/gitalk&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Gitalk&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://valine.js.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;Valine&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            </item></channel>
+</rss>
